@@ -2,6 +2,8 @@
 
 In Memory Key Value Datastore with option to associate multiple keys to an object and object keys
 
+`npm install --save memory-key-value-store`
+
 ## Example Usage
 
 ```javascript
